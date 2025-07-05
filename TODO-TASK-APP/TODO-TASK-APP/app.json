@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "todo-task-management-mobile-application",
+    "slug": "snack-2f72719e-eaff-4e81-b61d-f8a793953379",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Developed a cross-platform Todo Task Management App using React Native via Expo Snack\n\nBuilt as part of the Katomaran Hackathon 2025\n\nSupports full CRUD operations:\n\n✅ Create tasks\n\n📝 Read (view list)\n\n✏️ Update tasks\n\n✅ Mark as complete/incomplete\n\n❌ Delete tasks\n\nTasks include fields: Title, Description\n\nManaged state using React Hooks (useState)\n\nDesigned a clean, minimal, user-friendly UI\n\nBuilt without using CMD/terminal, fully in browser (Expo Snack)\n\nPreview and test app on Web, Android, or iOS\n\nApp works with local state; no backend or login added in this version\n\nReady for extension with Firebase/Google Login if needed"
+  }
+}
